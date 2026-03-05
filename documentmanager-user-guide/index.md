@@ -19,4 +19,4 @@ A very powerful aspect to Hornbill is the ability of the different applications 
 * **Service Manager**: When viewing and working on requests in Service Manager, use the Document action item to search for and link documents to requests.
 * **Customer Manager**: When viewing Organization records and or Service Contracts, use the Document option to search for and link documents to organizations and service contracts.
 * **Project Manager**: When viewing Projects in Project Manager, use the Documents option to search for and link documents to projects.
-* **iBridge**: Automate the linking of documents to other entities on Hornbill as part of business processes. For example, link a document to a request in Service Manager
+* **iBridge**: Automate the linking of documents to other entities on Hornbill as part of a workflow. For example, link a document to a request in Service Manager
