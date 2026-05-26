@@ -7,7 +7,7 @@ Users with the `MyLibraryManager` role can create libraries, and can then assign
 From the Libraries menu option use the + Add Library option, provide a name for the library and optionally a description to define the library's purpose.
 
 ### Adding Users, Groups and Roles
-A Library owner can select individual users, groups or users, or users who have a particular role. For each user, group or role they are giving access to the library they can decide what level of rights and access each has:
+A Library owner can select individual users, groups or roles, or users who have a particular role. For each user, group or role they are giving access to the library they can decide what level of rights and access each has:
 
 * **Can View**. This will allow users to only view the documents in the library.
 * **Can Upload**. This will allow users to add documents to the library.

@@ -1,5 +1,5 @@
 # Document Manager Mobile
-Hornbill’s Document Manager can be accessed as part the Hornbill Mobile client to ensure that you have your documents on hand wherever you are. Documents can be downloaded from either your own personal library or you can access any of the available public libraries. Once you have your document you can view, email, copy, print, and more.
+Hornbill’s Document Manager can be accessed as part of the Hornbill Mobile client to ensure that you have your documents on hand wherever you are. Documents can be downloaded from either your own personal library or you can access any of the available public libraries. Once you have your document you can view, email, copy, print, and more.
 
 Share your document and collaborate on the contents with your co-workers. Publish your document to a public library to share with everyone in your company and access documents published by other users.
 
@@ -18,7 +18,7 @@ Change the order the documents are displayed by selecting the ... icon and choos
 ## Open Documents
 Select a document name to open / download the document on the mobile
 
-Use the mobile devices propriety features to then
+Use the mobile devices proprietary features to then
 
 * Print
 * Share
@@ -26,7 +26,7 @@ Use the mobile devices propriety features to then
 Select Done to return to the list of documents
 
 ## Document Information
-Select the i icon next to a document to view it's details and options
+Select the i icon next to a document to view its details and options
 
 Depending on if you are the owner of a document, or the rights which have been afforded to you, you may see the following options available to you.
 * **Edit**<br>Select the Pencil icon to edit the document title or description
@@ -61,4 +61,4 @@ View and find documents by their Document Tags
 * Clicking on a Document Tag will display a list of all documents with that Tag.
 * Use the Magnifying Glass Icon to search for documents with a specific Document Tag
 * Select the document name to open the document on the mobile
-* Select on the i icon next to a document to view it's details and options
+* Select on the i icon next to a document to view its details and options

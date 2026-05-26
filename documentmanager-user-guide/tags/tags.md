@@ -23,8 +23,8 @@ Users with the Docmanager Library User role will be able to Switch from the Tag 
     * A-Z
     * Use (the number of documents carrying the tag)
 * Delete a tag by selecting the x next to the tag you wish to remove
-* Edit a Tag - Click on a tag to open it's properties
-    * Change it's display name
+* Edit a Tag - Click on a tag to open its properties
+    * Change its display name
     * Add different language values for the Tag
 
 ## Administration
